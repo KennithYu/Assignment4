@@ -1,0 +1,18 @@
+{
+	"dinner": [{
+			"food": "Steak",
+			"price": "$18.99",
+			"calories": "600"
+		},
+		{
+			"food": "Lobster",
+			"price": "$25.99",
+			"calories": "670"
+		},
+		{
+			"food": "Ramen",
+			"price": "$12.99",
+			"calories": "480"
+		}
+	]
+}

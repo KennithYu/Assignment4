@@ -1,0 +1,18 @@
+{
+	"lunch": [{
+			"food": "BLT Sandwich",
+			"price": "$6.99",
+			"calories": "250"
+		},
+		{
+			"food": "Shwarma",
+			"price": "$5.99",
+			"calories": "300"
+		},
+		{
+			"food": "Chicken Burger",
+			"price": "$4.99",
+			"calories": "280"
+		}
+	]
+}

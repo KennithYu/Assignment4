@@ -1,0 +1,18 @@
+{
+	"breakfast": [{
+			"food": "Bacon",
+			"price": "$1.99",
+			"calories": "110"
+		},
+		{
+			"food": "Eggs",
+			"price": "$0.99",
+			"calories": "150"
+		},
+		{
+			"food": "Toast",
+			"price": "$0.99",
+			"calories": "90"
+		}
+	]
+}
